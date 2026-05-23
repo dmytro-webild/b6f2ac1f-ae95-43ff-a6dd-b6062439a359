@@ -62,23 +62,23 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg?_wi=1",
           imageAlt: "luxury watch dark background",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg?_wi=1",
           imageAlt: "modern luxury watch gold",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg?_wi=1",
           imageAlt: "classic gold watch marble",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg?_wi=1",
           imageAlt: "luxury wrist watch close up",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg?_wi=1",
           imageAlt: "watch crown macro luxury",
         },
         {
@@ -128,21 +128,21 @@ export default function LandingPage() {
           title: "Gold Craftsmanship",
           description: "18k gold detailing.",
           buttonIcon: "Sparkles",
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg?_wi=2",
           imageAlt: "brand logo minimal",
         },
         {
           title: "Global Warranty",
           description: "Peace of mind included.",
           buttonIcon: "Award",
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg?_wi=2",
           imageAlt: "brand logo minimal",
         },
         {
           title: "Limited Edition",
           description: "Exclusive designs only.",
           buttonIcon: "Zap",
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg?_wi=2",
           imageAlt: "brand logo minimal",
         },
       ]}
@@ -253,7 +253,7 @@ export default function LandingPage() {
           quote: "Simply the finest timepiece I own.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-posing-against-large-window_1153-3823.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg?_wi=3",
           imageAlt: "professional woman portrait luxury",
         },
         {
@@ -264,7 +264,7 @@ export default function LandingPage() {
           quote: "Pure craftsmanship and status.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-serious-bearded-male-wearing-elegant-suit-dark-background_613910-11332.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg?_wi=3",
           imageAlt: "professional woman portrait luxury",
         },
         {
@@ -275,7 +275,7 @@ export default function LandingPage() {
           quote: "Elegant, bold, and precise.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-confident-businessman-wearing-glasses_158595-5356.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg?_wi=3",
           imageAlt: "professional woman portrait luxury",
         },
         {
@@ -286,7 +286,7 @@ export default function LandingPage() {
           quote: "Design that transcends time.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/model-suit-posing-studio_1303-12436.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg?_wi=2",
           imageAlt: "professional woman portrait luxury",
         },
         {
@@ -297,7 +297,7 @@ export default function LandingPage() {
           quote: "A true heirloom piece.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/businesswoman-calling-with-her-smartphone_23-2149405912.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg?_wi=2",
           imageAlt: "professional woman portrait luxury",
         },
       ]}
