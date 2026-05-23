@@ -54,15 +54,15 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg",          imageAlt: "luxury watch dark background"},
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg?_wi=1",          imageAlt: "luxury watch dark background"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg",          imageAlt: "modern luxury watch gold"},
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg?_wi=1",          imageAlt: "modern luxury watch gold"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg",          imageAlt: "classic gold watch marble"},
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg?_wi=1",          imageAlt: "classic gold watch marble"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg",          imageAlt: "luxury wrist watch close up"},
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg?_wi=1",          imageAlt: "luxury wrist watch close up"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg",          imageAlt: "watch crown macro luxury"},
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg?_wi=1",          imageAlt: "watch crown macro luxury"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/futuristic-time-machine_23-2151599339.jpg",          imageAlt: "luxury watch internal mechanism"},
       ]}
@@ -95,13 +95,13 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/tired-beautiful-girl-after-shopping-day-brunette-model-with-long-hair-posing-camera-with-purchases-from-famous-stores-pretty-sad-lady-white-tshirt-jeans-holding-bags-with-logo-brands_132075-12427.jpg",          imageAlt: "brand logo minimal"},
         {
           title: "Gold Craftsmanship",          description: "18k gold detailing.",          buttonIcon: Sparkles,
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg",          imageAlt: "brand logo minimal"},
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg?_wi=2",          imageAlt: "brand logo minimal"},
         {
           title: "Global Warranty",          description: "Peace of mind included.",          buttonIcon: Award,
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg",          imageAlt: "brand logo minimal"},
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg?_wi=2",          imageAlt: "brand logo minimal"},
         {
           title: "Limited Edition",          description: "Exclusive designs only.",          buttonIcon: Zap,
-          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg",          imageAlt: "brand logo minimal"},
+          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg?_wi=2",          imageAlt: "brand logo minimal"},
       ]}
       title="Why Choose Royal Wrist"
       description="Setting the standard for luxury timepieces."
@@ -161,15 +161,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "t1",          name: "Elena Vance",          date: "Jan 2024",          title: "Collector",          quote: "Simply the finest timepiece I own.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-posing-against-large-window_1153-3823.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg",          imageAlt: "professional woman portrait luxury"},
+          id: "t1",          name: "Elena Vance",          date: "Jan 2024",          title: "Collector",          quote: "Simply the finest timepiece I own.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-posing-against-large-window_1153-3823.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1720.jpg?_wi=3",          imageAlt: "professional woman portrait luxury"},
         {
-          id: "t2",          name: "Julian Thorne",          date: "Feb 2024",          title: "Investor",          quote: "Pure craftsmanship and status.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-serious-bearded-male-wearing-elegant-suit-dark-background_613910-11332.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg",          imageAlt: "professional woman portrait luxury"},
+          id: "t2",          name: "Julian Thorne",          date: "Feb 2024",          title: "Investor",          quote: "Pure craftsmanship and status.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-stylish-serious-bearded-male-wearing-elegant-suit-dark-background_613910-11332.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/businessman-looking-his-watch-closeup_53876-176905.jpg?_wi=3",          imageAlt: "professional woman portrait luxury"},
         {
-          id: "t3",          name: "Sophia Lee",          date: "Mar 2024",          title: "Fashion Editor",          quote: "Elegant, bold, and precise.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-confident-businessman-wearing-glasses_158595-5356.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg",          imageAlt: "professional woman portrait luxury"},
+          id: "t3",          name: "Sophia Lee",          date: "Mar 2024",          title: "Fashion Editor",          quote: "Elegant, bold, and precise.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-confident-businessman-wearing-glasses_158595-5356.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/grunge-old-vintage-clock_1232-1717.jpg?_wi=3",          imageAlt: "professional woman portrait luxury"},
         {
-          id: "t4",          name: "Marcus Reid",          date: "Apr 2024",          title: "Architect",          quote: "Design that transcends time.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/model-suit-posing-studio_1303-12436.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg",          imageAlt: "professional woman portrait luxury"},
+          id: "t4",          name: "Marcus Reid",          date: "Apr 2024",          title: "Architect",          quote: "Design that transcends time.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/model-suit-posing-studio_1303-12436.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/closeup-shot-man-wearing-suit-more-precisely-his-hands-ring-wristwatch_181624-23031.jpg?_wi=2",          imageAlt: "professional woman portrait luxury"},
         {
-          id: "t5",          name: "Sarah Jenkins",          date: "May 2024",          title: "Entrepreneur",          quote: "A true heirloom piece.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/businesswoman-calling-with-her-smartphone_23-2149405912.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg",          imageAlt: "professional woman portrait luxury"},
+          id: "t5",          name: "Sarah Jenkins",          date: "May 2024",          title: "Entrepreneur",          quote: "A true heirloom piece.",          tag: "Verified",          avatarSrc: "http://img.b2bpic.net/free-photo/businesswoman-calling-with-her-smartphone_23-2149405912.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-military-protection-item_23-2149341299.jpg?_wi=2",          imageAlt: "professional woman portrait luxury"},
       ]}
       title="Client Reflections"
       description="What our collectors say about their timepieces."
